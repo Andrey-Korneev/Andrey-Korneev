@@ -1,16 +1,21 @@
-### Hi there 👋
+My name is Andrey. Welcome :wave:
 
-<!--
-**Andrey-Korneev/Andrey-Korneev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- I learn Java at [Job4j](https://job4j.ru/)
 
-Here are some ideas to get you started:
+- <b>Core technologies::muscle:</b>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![Static Badge](https://img.shields.io/badge/Java-%3E%3D8-orange)
+![Static Badge](https://img.shields.io/badge/Spring-%3E%3D5.0-green)
+![Static Badge](https://img.shields.io/badge/Hibernate-%3E%3D5.0-e8aa0e)
+![Static Badge](https://img.shields.io/badge/Maven-3-e0344b)
+![Static Badge](https://img.shields.io/badge/PostgreSQL-%3E%3D9-blue)
+![Static Badge](https://img.shields.io/badge/JUnit-%3E%3D4-0cf00c)
+
+![Github stats](https://github-readme-stats.vercel.app/api?username=Andrey-Korneev&hide=stars,prs,issues,contribs)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Andrey-Korneev&layout=compact)](https://github.com/ShamRail/github-readme-stats)
+
+
+
+
+
